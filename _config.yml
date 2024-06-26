@@ -16,7 +16,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Kelly Mae"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Tangerang, Indonesia"
   employer         : # "..."
   uri              : # URL
