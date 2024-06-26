@@ -35,7 +35,7 @@ Work Experience
 - Assisted over 35 students in solving problems and applying theoretical concepts through programming using RStudio.
 - Analyzed and graded students’ weekly assignments, providing detailed feedback to monitor the students’ progress.
 
-Organizational Experiences
+Organizational Experience
 ======
 **Documentation Division Coordinator at Arunakara 2022 (_April 2022 - September 2022_)**
 - Coordinated all documentation activities required for the success of the event, including creating Instagram stories, Zoom Virtual Backgrounds, banners, member ID cards, lanyards, and twibbons.
