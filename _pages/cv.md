@@ -23,7 +23,7 @@ Education
 
 Work Experience
 ======
-**Growth Data Intern at [MOXA by Astra Financial] (https://www.moxa.id/) (_February 2023 - January 2024_)**
+**Growth Data Intern at [MOXA by Astra Financial](https://www.moxa.id/) (_February 2023 - January 2024_)**
 - Maintained data integration, data flow, data scheduling, data visualization, and data analysis to ensure seamless data operations.
 - Day to day gathered and analyzed data using SQL, or PostgreSQL, providing actionable insights for various business needs.
 - Utilized Microsoft Power BI and Google Looker Studio to design prototypes and create visualization dashboards, facilitating real-time data analysis and enabling informed decision-making by key stakeholders.
