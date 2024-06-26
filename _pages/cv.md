@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-Bachelor in Computer Science, Information Systems | Multimedia Nusantara University (_August 2020 - July 2024_)
+**Bachelor in Computer Science, Information Systems | Multimedia Nusantara University (_August 2020 - July 2024_)**
 - Relevant Coursework: Big Data Analytics, Data Modeling, Data Visualizations, Database Systems, Data Analysis, Probability and Statistics
 - GPA: 3.94/4.00
 
@@ -50,6 +50,7 @@ Skills
 ======
 **Hard Skills**
 SQL, PostgreSQL, R, DBeaver, Google Big Query, Python, PowerBI, Google Looker Studio, Tableau, SAS
+
 <!--
 * Skill 1
 * Skill 2
