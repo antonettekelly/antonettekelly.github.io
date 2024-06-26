@@ -17,13 +17,13 @@ A discipline and passionate Information Systems student from Multimedia Nusantar
 
 Education
 ======
-**Bachelor in Computer Science, Information Systems | Multimedia Nusantara University (_August 2020 - July 2024_)**
+**Bachelor in Computer Science, Information Systems, [Multimedia Nusantara University](https://www.umn.ac.id/sistem-informasi/) (_August 2020 - July 2024_)**
 - Relevant Coursework: Big Data Analytics, Data Modeling, Data Visualizations, Database Systems, Data Analysis, Probability and Statistics
 - GPA: 3.94/4.00
 
 Work Experience
 ======
-**Growth Data Intern at MOXA by Astra Financial (_February 2023 - January 2024_)**
+**Growth Data Intern at [MOXA by Astra Financial] (https://www.moxa.id/) (_February 2023 - January 2024_)**
 - Maintained data integration, data flow, data scheduling, data visualization, and data analysis to ensure seamless data operations.
 - Day to day gathered and analyzed data using SQL, or PostgreSQL, providing actionable insights for various business needs.
 - Utilized Microsoft Power BI and Google Looker Studio to design prototypes and create visualization dashboards, facilitating real-time data analysis and enabling informed decision-making by key stakeholders.
@@ -42,15 +42,10 @@ Organizational Experience
 - Assisted and supported the visual team in the creation and execution of design elements for the event.
 - Delivered high-quality design solutions under extremely tight deadlines.
 
-**...**
-- ...
-- ...
-- ...
-
-**...**
-- ...
-- ...
-- ...
+**Documentation Division Member at Abisatya 2021 (_May 2021 - August 2021_)**
+- Successfully created and edited video documentation during the event.
+- Designed Instagram story templates and twibbons for the event. 
+- Engaged in giving ideas to other members by discussing all designs.
   
 Skills
 ======
