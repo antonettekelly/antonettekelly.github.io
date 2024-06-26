@@ -6,9 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-...
 
-Fresh Graduate from Multimedia Nusantara University focused on Data Analysis and Data Science.
+Fresh Graduate of Information Systems from Multimedia Nusantara University focused on Data Analysis and Data Science.
 
 About Me
 ======
