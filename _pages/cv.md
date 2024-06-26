@@ -12,7 +12,7 @@ redirect_from:
 Summary
 ======
 A discipline and passionate Information Systems student from Multimedia Nusantara University with strong analytical and creative thinking skills. Proficient in SQL, Python, and Power BI, complemented by a solid foundation in data analysis and visualization. Demonstrated problem-solving and organizational skills through various projects and opportunities. An enthusiastic individual with a strong willingness to learn and is ready to embrace any challenge.
-======
+
 **Interest: Data Analyst, Data Scientist**
 
 Education
@@ -55,7 +55,7 @@ Organizational Experiences
 Skills
 ======
 **Hard Skills**
-======
+
 SQL, PostgreSQL, R, DBeaver, Google Big Query, Python, PowerBI, Google Looker Studio, Tableau, SAS
 
 <!--
@@ -67,7 +67,7 @@ SQL, PostgreSQL, R, DBeaver, Google Big Query, Python, PowerBI, Google Looker St
 * Skill 3 -->
 
 **Soft Skills**
-======
+
 Problem-Solving, Attention to Detail, Critical Thinking, Curiosity, Creativity, Responsibility, Teamwork
 
 <!--
