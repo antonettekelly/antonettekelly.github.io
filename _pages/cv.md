@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Summary
+======
+A discipline and passionate Information Systems student from Multimedia Nusantara University with strong analytical and creative thinking skills. Proficient in SQL, Python, and Power BI, complemented by a solid foundation in data analysis and visualization. Demonstrated problem-solving and organizational skills through various projects and opportunities. An enthusiastic individual with a strong willingness to learn and is ready to embrace any challenge.
+**Interest: Data Analyst, Data Scientist**
+
 Education
 ======
 **Bachelor in Computer Science, Information Systems | Multimedia Nusantara University (_August 2020 - July 2024_)**
