@@ -1,6 +1,6 @@
 ---
 title: "EverZone Warehouse"
-excerpt: "<br>testest<br/> <img src='/images/EverZone Warehouse - Power BI.jpg' style='width:auto; height: 200px'> <img src='/images/EverZone Warehouse - SAS 2.jpg' style='width:auto; height: 200px'>"
+excerpt: "test<br/><br><img src='/images/EverZone Warehouse - Power BI.jpg' style='width:auto; height: 200px'> <img src='/images/EverZone Warehouse - SAS 2.jpg' style='width:auto; height: 200px'>"
 collection: portfolio
 ---
 
