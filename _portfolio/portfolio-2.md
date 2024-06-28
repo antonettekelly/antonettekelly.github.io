@@ -8,4 +8,4 @@ collection: portfolio
 
 **Task:** Performed data preparation and exploratory data analysis on a warehouse service data set, using PowerBI for descriptive analytics and SAS for predictive analytics and prescriptive analytics in the form of reporting and KPI.
 
-More: [EverZone Warehouse on GitHub](https://github.com/antonettekelly/EverZone-Warehouse)
+**More:** [EverZone Warehouse on GitHub](https://github.com/antonettekelly/EverZone-Warehouse)
