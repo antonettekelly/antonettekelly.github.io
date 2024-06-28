@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <img src='/images/pf1.3.jpg' style= 'width:200px; height:200px'> <img src='/images/pf1.2.jpg' style= 'width:600px; height:200px'>
-<img src='/images/pf1.4.jpg' style= 'width:400px; height:200px'> <img src='/images/pf1.5.jpg' style= 'width:400px; height:200px'>
+<img src='/images/pf1.4.jpg' style= 'width:450px; height:200px'> <img src='/images/pf1.5.jpg' style= 'width:450px; height:200px'>
 
 **Project Goal:** The goal of this project is to develop and implement a comprehensive solution to optimize the collection process for peer-to-peer (P2P) lending. This includes creating a collection intensity scoring model to evaluate and prioritize collection efforts based on customer repayment risk. It also includes a predictive model to recommend the most effective communication channels with their number of customer interactions. 
 
