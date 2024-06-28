@@ -1,6 +1,6 @@
 ---
 title: "Customer Satisfaction Factor Analysis for Nike and Adidas Products"
-excerpt: "Analyze Customer Satisfaction Factor using Nike and Adidas Product Data with Python scikit-learn package.<br><br><img src='/images/pf3.jpg' style= 'width:auto; height:250px'> <img src='/images/pf3.1.jpg' style= 'width:auto; height:250px'>"
+excerpt: "Analyze Customer Satisfaction Factor using Nike and Adidas Product Data with Python scikit-learn package<br><br><img src='/images/pf3.jpg' style= 'width:auto; height:250px'> <img src='/images/pf3.1.jpg' style= 'width:auto; height:250px'>"
 collection: portfolio
 ---
 
