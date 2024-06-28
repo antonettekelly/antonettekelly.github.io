@@ -1,6 +1,6 @@
 ---
 title: "Football Players Value Prediction using Regression and Clustering Methods"
-excerpt: "Regression and clustering implementation in predicting football players value based on FIFA 21 Football Players Data using R Programming Language<br><br><img src='/images/pf6.jpg' style='width:400px; height: 200px'> <img src='/images/pf6.1.jpg' style='width:400px; height: 200px'>"
+excerpt: "Regression and clustering implementation in predicting football players value based on FIFA 21 Football Players Data using R Programming Language<br><br><img src='/images/pf6.jpg' style='width:400px; height: 250px'> <img src='/images/pf6.1.jpg' style='width:400px; height: 250px'>"
 collection: portfolio
 ---
 
