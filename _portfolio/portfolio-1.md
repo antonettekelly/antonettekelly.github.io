@@ -1,6 +1,6 @@
 ---
 title: "Collection Intensity Scoring and Channel Recommendation"
-excerpt: "Classifying Collection Intensity Category and predicting channel recommendation based on P2P Lending customers' data and Python libraries<br/><img src='/images/pf1.png'><img src='/images/pf1.1.png'>"
+excerpt: "Classifying Collection Intensity Category and predicting channel recommendation based on P2P Lending customers' data and Python libraries<br/><img src='/images/pf1.png style= width:'250px' height:'250px'><img src='/images/pf1.1.png' style= width:'250px' height:'250px'>"
 collection: portfolio
 ---
 
