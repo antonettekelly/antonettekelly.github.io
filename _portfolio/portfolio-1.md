@@ -11,5 +11,3 @@ collection: portfolio
 <img src='/images/pf1.4.jpg' style= 'width:375px; height:175px'> <img src='/images/pf1.5.jpg' style= 'width:375px; height:175px'>
 
 **Task:** Performed Extract, Transform, Load for data integration using PostgreSQL, developed a Random Forest classifier to categorize collection intensity and a K-Nearest Neighbors Regressor for predicting interaction counts in recommended channels. Implemented model optimization using Grid Search and Bayesian Optimization in Python, and conducted statistical tests using R. Results showed Bayesian Optimization’s superior performance in both models, achieving 98.34% accuracy and an MAE of 0.24530.
-
----
