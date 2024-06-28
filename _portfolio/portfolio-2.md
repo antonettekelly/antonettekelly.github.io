@@ -1,6 +1,6 @@
 ---
 title: "EverZone Warehouse"
-excerpt: "Big Data Analytics and Business Intelligence Implementation based on Warehouse Service Data using Microsoft Power BI and SAS<br><br><img src='/images/pf2.jpg' style='width:400px; height: 200px'> <img src='/images/pf2.1.jpg' style='width:400px; height: 200px'>"
+excerpt: "Big Data Analytics and Business Intelligence Implementation based on Warehouse Service Data using Microsoft Power BI and SAS<br><br><img src='/images/pf2.jpg' style='width:400px; height: 250px'> <img src='/images/pf2.1.jpg' style='width:400px; height: 250px'>"
 collection: portfolio
 ---
 
