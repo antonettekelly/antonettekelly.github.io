@@ -1,6 +1,6 @@
 ---
 title: "Collection Intensity Scoring and Channel Recommendation"
-excerpt: "Hyperparameter optimization implementation in classifying Collection Intensity Category and predicting channel recommendation based on P2P Lending customer data with Python libraries.<br><br><img src='/images/pf1.png' style= 'width:200px; height:200px'> <img src='/images/pf1.1.png' style= 'width:600px; height:200px'>"
+excerpt: "Hyperparameter optimization implementation in classifying Collection Intensity Category and predicting channel recommendation based on P2P Lending customer data with Python libraries<br><br><img src='/images/pf1.png' style= 'width:200px; height:200px'> <img src='/images/pf1.1.png' style= 'width:600px; height:200px'>"
 collection: portfolio
 ---
 
