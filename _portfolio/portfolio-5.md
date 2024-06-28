@@ -1,6 +1,6 @@
 ---
 title: "France Accident Cases Report"
-excerpt: "using Tableau.<br><br><img src='/images/pf5.jpg' style='width:400px; height: 200px'>"
+excerpt: "Creating data visualization for France accident cases using Tableau.<br><br><img src='/images/pf5.jpg' style='width:400px; height: 200px'>"
 collection: portfolio
 ---
 
