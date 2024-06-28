@@ -11,20 +11,17 @@ redirect_from:
 
 [Download CV](http://antonettekelly.github.io/files/CV_KellyMae.pdf)
 
-Summary
-======
+## Summary
 A discipline and passionate Information Systems student from Multimedia Nusantara University with strong analytical and creative thinking skills. Proficient in SQL, Python, and Power BI, complemented by a solid foundation in data analysis and visualization. Demonstrated problem-solving and organizational skills through various projects and opportunities. An enthusiastic individual with a strong willingness to learn and is ready to embrace any challenge.
 
 **Interest: Data Analyst, Data Scientist**
 
-Education
-======
+## Education
 **Bachelor in Computer Science, Information Systems, [Multimedia Nusantara University](https://www.umn.ac.id/sistem-informasi/) (_August 2020 - July 2024_)**
 - Relevant Coursework: Big Data Analytics, Data Modeling, Data Visualizations, Database Systems, Data Analysis, Probability and Statistics
 - GPA: 3.94/4.00
 
-Work Experience
-======
+## Work Experience
 **Growth Data Intern at [MOXA by Astra Financial](https://www.moxa.id/) (_February 2023 - January 2024_)**
 - Maintained data integration, data flow, data scheduling, data visualization, and data analysis to ensure seamless data operations.
 - Day to day gathered and analyzed data using SQL, or PostgreSQL, providing actionable insights for various business needs.
@@ -37,8 +34,7 @@ Work Experience
 - Assisted over 35 students in solving problems and applying theoretical concepts through programming using RStudio.
 - Analyzed and graded students’ weekly assignments, providing detailed feedback to monitor the students’ progress.
 
-Organizational Experience
-======
+## Organizational Experience
 **Documentation Division Coordinator at Arunakara 2022 (_April 2022 - September 2022_)**
 - Coordinated all documentation activities required for the success of the event, including creating Instagram stories, Zoom Virtual Backgrounds, banners, member ID cards, lanyards, and twibbons.
 - Assisted and supported the visual team in the creation and execution of design elements for the event.
@@ -49,8 +45,7 @@ Organizational Experience
 - Designed Instagram story templates and twibbons for the event. 
 - Engaged in giving ideas to other members by discussing all designs.
   
-Skills
-======
+## Skills
 **Hard Skills**
 
 SQL, PostgreSQL, R, DBeaver, Google Big Query, Python, PowerBI, Google Looker Studio, Tableau, SAS
