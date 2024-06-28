@@ -1,6 +1,6 @@
 ---
 title: "EverBank"
-excerpt: "Predict customer decision to long-term deposits subscription based on bank data using machine learning models created in SAS.<br><br><img src='/images/pf4.jpg' style='width:400px; height: 200px'> <img src='/images/pf4.1.jpg' style='width:400px; height: 200px'>"
+excerpt: "Predict customer decision to long-term deposits subscription based on bank data using machine learning models created in SAS<br><br><img src='/images/pf4.jpg' style='width:400px; height: 200px'> <img src='/images/pf4.1.jpg' style='width:400px; height: 200px'>"
 collection: portfolio
 ---
  
