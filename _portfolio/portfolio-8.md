@@ -1,6 +1,6 @@
 ---
 title: "Football Players Value Prediction using Classification Method"
-excerpt: "Classification implementation in predicting football players value based on FIFA 21 Football Player Data using R Programming Language<br><br><img src='/images/pf8.jpg' style='width:400px; height: 200px'> <img src='/images/pf8.1.jpg' style='width:400px; height: 200px'>"
+excerpt: "Classification implementation in predicting football players value based on FIFA 21 Football Player Data using R Programming Language<br><br><img src='/images/pf8.jpg' style='width:400px; height: 250px'> <img src='/images/pf8.1.jpg' style='width:400px; height: 250px'>"
 collection: portfolio
 ---
 
