@@ -8,4 +8,4 @@ collection: portfolio
 
 **Task:** Performed data preparation and Exploratory Data Analysis on FIFA 21 Football Player Data, conducted statistical tests, and built regression and clustering models using Linear Regression and DBSCAN respectively. Results showed that Linear Regression obtained R-squared of 0.3861 and RMSE of 0.5907, while DBSCAN achieved an accuracy of 97%.
 
-**More:** [Football Players Value Prediction using Regression and Clustering Methods in GitHub](https://github.com/antonettekelly/Football-Players-Value-Prediction-Regression-and-Clustering-R)
+**More:** [Football Players Value Prediction using Regression and Clustering Methods on GitHub](https://github.com/antonettekelly/Football-Players-Value-Prediction-Regression-and-Clustering-R)
