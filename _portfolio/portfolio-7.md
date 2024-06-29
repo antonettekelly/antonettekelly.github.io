@@ -1,13 +1,11 @@
 ---
 title: "Expedia Database"
-excerpt: "...<br><br><img src='/images/pf5.jpg' style='width:500px; height: 250px'>"
+excerpt: "Creation of database system for package tracking mobile application using SQL<br><br><img src='/images/pf7.jpg' style='width:400px; height: 250px'><img src='/images/pf7.1.jpg' style='width:400px; height: 250px'>"
 collection: portfolio
 ---
 
-**Project Goal:** ...
+**Project Goal:** Expedia is a mobile application focusing on package delivery services. This project involves designing a database system to help track the whereabouts of packages online for the sender and recipient of the package. This project aims to display the submitted output. 
 
-<img src='/images/pf5.1.jpg' style= 'width:375px; height:200px'> <img src='/images/pf5.2.jpg' style= 'width:375px; height:200px'>
+**Task:** Created an Entity Relationship Diagram and utilized SQL to view the flow of the running system in tracking package delivery.
 
-**Task:** ...
-
-**More:**...
+**More:** [Expedia Database on GitHub](https://github.com/antonettekelly/Expedia-Database)
