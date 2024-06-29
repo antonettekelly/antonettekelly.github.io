@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Final-year Student of Information Systems from Multimedia Nusantara University, specializing in Data Analysis and Data Science.
+Final year student of Information Systems at Multimedia Nusantara University, specializing in Data Analysis and Data Science.
 
 About Me
 ======
-Naturally curious with a passion for transforming complex data into actionable insights, I thrive on tackling new challenges and continuously seek opportunities to broaden my skills and knowledge.
+Naturally curious and passionate about transforming complex data into actionable insights, I thrive on new challenges and constantly seek opportunities to expand my skills and knowledge.
 
-My primary focus areas include data analysis, predictive modeling, prototype design and the creation of visualization dashboards. Beyond my technical pursuits, I find great joy in sharing my knowledge with colleagues, particularly in the realm of data.
+My primary areas of focus include data analysis, predictive modeling, prototyping, and the creation of visualization dashboards. Beyond my technical pursuits, I find great joy in sharing my knowledge with colleagues, especially in the area of data. I am also eager to explore and learn about other fields to broaden my expertise.
 
-Previously, I honed my skills in the financial service industry, focusing on analyzing various financial products within a smart mobile application. Despite my Bachelor's Degree in Computer Science, Information Systems being unofficial, my dediation to harnessing the potential of data remains unwavering.
+Previously, I honed my skills in the financial services industry, focusing on analyzing various financial products within a smart mobile application. During my academic journey, I also worked as a laboratory assistant in probability and statistics, where I assisted in conducting experiments and helping students understand statistical concepts. With a Bachelor's degree in Computer Science, Information Systems, I am committed to leveraging data-driven insights to drive business growth and innovation.
 
-Feel free to connect with or reach out via [LinkedIn](https://www.linkedin.com/in/antonettekelly/).
+Feel free to connect or reach me via [LinkedIn](https://www.linkedin.com/in/antonettekelly/).
