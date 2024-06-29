@@ -1,6 +1,6 @@
 ---
 title: "The Impact of Sleep Disorders on College Students"
-excerpt: "Statistical tests of the impact of sleep disorders on college students using R Programming Language<br><br><img src='/images/pf9.jpg' style='width:400px; height: 250px'><img src='/images/pf9.1.jpg' style='width: 100px; height: auto'>"
+excerpt: "Statistical tests of the impact of sleep disorders on college students using R Programming Language<br><br><img src='/images/pf9.jpg' style='width:400px; height: 250px'><img src='/images/pf9.1.jpg' style='width: 400px; height: auto'>"
 collection: portfolio
 ---
 
