@@ -17,7 +17,7 @@ A discipline and passionate Information Systems student from Multimedia Nusantar
 
 **Interest: Data Analyst, Data Scientist**
 
-## Work Experience
+## Experiences
 ---
 **Growth Data Intern at [Astra Financial](https://www.astrafinancial.co.id/) (_February 2023 - January 2024_)**
 - Maintained data integration, data flow, data scheduling, data visualization, and data analysis to ensure seamless data operations.
@@ -37,7 +37,7 @@ A discipline and passionate Information Systems student from Multimedia Nusantar
 - Relevant Coursework: Big Data Analytics, Data Modeling, Data Visualizations, Database Systems, Data Analysis, Probability and Statistics
 - GPA: 3.94/4.00
 
-## Organizational Experience
+## Organizational Experiences
 ---
 **Documentation Division Coordinator at Arunakara 2022 (_April 2022 - September 2022_)**
 - Coordinated all documentation activities required for the success of the event, including creating Instagram stories, Zoom Virtual Backgrounds, banners, member ID cards, lanyards, and twibbons.
