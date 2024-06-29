@@ -17,12 +17,6 @@ A discipline and passionate Information Systems student from Multimedia Nusantar
 
 **Interest: Data Analyst, Data Scientist**
 
-## Education
----
-**Bachelor in Computer Science, Information Systems, [Multimedia Nusantara University](https://www.umn.ac.id/sistem-informasi/) (_August 2020 - July 2024_)**
-- Relevant Coursework: Big Data Analytics, Data Modeling, Data Visualizations, Database Systems, Data Analysis, Probability and Statistics
-- GPA: 3.94/4.00
-
 ## Work Experience
 ---
 **Growth Data Intern at [Astra Financial](https://www.astrafinancial.co.id/) (_February 2023 - January 2024_)**
@@ -36,6 +30,12 @@ A discipline and passionate Information Systems student from Multimedia Nusantar
 - Explained key statistical concepts, including descriptive statistics, hypothesis testing, and linear regression modeling using R Programming Language.
 - Assisted over 35 students in solving problems and applying theoretical concepts through programming using RStudio.
 - Analyzed and graded students’ weekly assignments, providing detailed feedback to monitor the students’ progress.
+
+## Education
+---
+**Bachelor in Computer Science, Information Systems, [Multimedia Nusantara University](https://www.umn.ac.id/sistem-informasi/) (_August 2020 - July 2024_)**
+- Relevant Coursework: Big Data Analytics, Data Modeling, Data Visualizations, Database Systems, Data Analysis, Probability and Statistics
+- GPA: 3.94/4.00
 
 ## Organizational Experience
 ---
