@@ -8,4 +8,4 @@ collection: portfolio
 
 **Task:** Conducted statistical tests and created data visualizations to analyze the impact of sleep disorders on college students using R programming language.
 
-**More:** [The Impact of Sleep Disorders on College Students](https://github.com/antonettekelly/The-Impact-of-Sleep-Disorders-on-College-Students-R)
+**More:** [The Impact of Sleep Disorders on College Students on GitHub](https://github.com/antonettekelly/The-Impact-of-Sleep-Disorders-on-College-Students-R)
