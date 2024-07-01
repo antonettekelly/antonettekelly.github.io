@@ -34,7 +34,7 @@ A discipline and passionate Information Systems student from Multimedia Nusantar
 ## Education
 ---
 **Bachelor in Computer Science, Information Systems, [Multimedia Nusantara University](https://www.umn.ac.id/sistem-informasi/) (_August 2020 - July 2024_)**
-- Relevant Coursework: Big Data Analytics, Data Modeling, Data Visualizations, Database Systems, Data Analysis, Probability and Statistics
+- Relevant Coursework: Big Data Analytics, Data Modeling, Data Visualization, Database Systems, Data Analysis, Probability and Statistics
 - GPA: 3.94/4.00
 
 ## Organizational Experiences
