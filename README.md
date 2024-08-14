@@ -1,6 +1,6 @@
 # Kelly Mae
 
-Final year student of Information Systems at Multimedia Nusantara University, specializing in Data Analysis and Data Science.
+Fresh Graduate of Information Systems at Multimedia Nusantara University, specializing in Data Analysis and Data Science.
 
 # About Me
 Naturally curious and passionate about transforming complex data into actionable insights, I thrive on new challenges and constantly seek opportunities to expand my skills and knowledge.
