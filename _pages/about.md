@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Final year student of Information Systems at Multimedia Nusantara University, specializing in Data Analysis and Data Science.
+Fresh Graduate of Information Systems at Multimedia Nusantara University, specializing in Data Analysis and Data Science.
 
 About Me
 ======
