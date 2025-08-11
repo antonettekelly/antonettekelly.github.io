@@ -13,12 +13,19 @@ redirect_from:
 
 ## Summary
 ---
-A discipline and passionate Information Systems student from Multimedia Nusantara University with strong analytical and creative thinking skills. Proficient in SQL, Python, and Power BI, complemented by a solid foundation in data analysis and visualization. Demonstrated problem-solving and organizational skills through various projects and opportunities. An enthusiastic and self-motivated individual with a strong willingness to learn and is ready to embrace any challenge.
+Data analyst with proven experience in leveraging SQL, Python, and Power BI to transform large datasets into actionable insights that support strategic decision-making. Skilled in end-to-end data analysis and dashboard development, delivering solutions that enhanced business efficiency and supported key stakeholders. Recognized for problem-solving, adaptability, and the ability to manage multiple projects in fast-paced environments
 
 **Interest: Data Analyst, Data Scientist**
 
 ## Experiences
 ---
+**Growth Data at [Astra Financial](https://www.astrafinancial.co.id/) (_October 2024 - Present_)**
+- Performed in-depth data analysis using SQL, or PostgreSQL to uncover trends and insights, providing actionable recommendations for business development.
+- Designed and implemented data visualizations in Power BI, enabling stakeholders to easily access and interpret critical business data.
+- Created and presented reports delivering targeted insights into the business performance of FIFGROUP, TAF, AAB, AstraLife, Moxa Mart – PPOB, with strategic recommendations based on findings.
+- Conducted market research and built Moxa x Competitor Benchmark Analysis Dashboard, proposing new price strategies and enabling stakeholders to monitor competitor trends and make timely pricing adjustments.
+- Developed personalized product offerings for FIFASTRA, DANASTRA, MPF Car, and Garda Oto, achieving 67% conversion from unique leads to valid leads.
+
 **Growth Data Intern at [Astra Financial](https://www.astrafinancial.co.id/) (_February 2023 - January 2024_)**
 - Maintained data integration, data flow, data scheduling, data visualization, and data analysis to ensure seamless data operations.
 - Day to day gathered and analyzed data using SQL, or PostgreSQL, providing actionable insights for various business needs.
@@ -53,7 +60,7 @@ A discipline and passionate Information Systems student from Multimedia Nusantar
 ---
 **Hard Skills**
 
-SQL, PostgreSQL, R, DBeaver, Google Big Query, Python, PowerBI, Google Looker Studio, Tableau, SAS
+SQL, PostgreSQL, DBeaver, Google Big Query, Python, PowerBI, Google Looker Studio, Tableau
 
 <!--
 * Skill 1
@@ -65,7 +72,7 @@ SQL, PostgreSQL, R, DBeaver, Google Big Query, Python, PowerBI, Google Looker St
 
 **Soft Skills**
 
-Problem-Solving, Attention to Detail, Critical Thinking, Curiosity, Creativity, Responsibility, Teamwork
+Analytical Thinking, Problem-Solving, Detail Oriented, Curiosity, Adaptability, Responsibility, Teamwork
 
 <!--
 Publications
