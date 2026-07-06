@@ -13,13 +13,22 @@ redirect_from:
 
 ## Summary
 ---
-Data analyst with proven experience in leveraging SQL, Python, and Power BI to transform large datasets into actionable insights that support strategic decision-making. Skilled in end-to-end data analysis and dashboard development, delivering solutions that enhanced business efficiency and supported key stakeholders. Recognized for problem-solving, adaptability, and the ability to manage multiple projects in fast-paced environments
+Data analyst with proven experience in leveraging SQL, Python, and Power BI to transform large datasets into actionable insights that support strategic decision-making. Skilled in end-to-end data analysis and dashboard development, delivering solutions that enhanced business efficiency and supported key stakeholders. Recognized for problem-solving, adaptability, and the ability to manage multiple projects in fast-paced environments.
 
-**Interest: Data Analyst, Data Scientist**
+**Interest: Data Analyst, Business Intelligence, Data Scientist**
 
 ## Experiences
 ---
-**Growth Data at [Astra Financial](https://www.astrafinancial.co.id/) (_October 2024 - Present_)**
+**Risk Analyst at [Astra Financial](https://www.astrafinancial.co.id/) (_January 2026 - Present_)**
+- Consolidated regulatory risk reporting for Astra Life in Astra Financial Conglomerate, coordinating validation and 
+submission Quarterly APOLO (Online Reporting System for Financial Services Authority), Risk Profile, Stress Testing, 
+and incidental reports. 
+- Conducted automation of manual risk reporting by gathering data and building dashboard using Power BI, covering risk 
+categories and key metrics to improve reporting and monitoring efficiency. 
+- Compiled top risk, emerging risk, and risk limit reporting of Astra Financial Business Units, supporting quarterly 
+management reporting of enterprise risk exposure. 
+
+**Growth Data at [Astra Financial](https://www.astrafinancial.co.id/) (_October 2024 - December 2025_)**
 - Performed in-depth data analysis using SQL, or PostgreSQL to uncover trends and insights, providing actionable recommendations for business development.
 - Designed and implemented data visualizations in Power BI, enabling stakeholders to easily access and interpret critical business data.
 - Created and presented reports delivering targeted insights into the business performance of FIFGROUP, TAF, AAB, AstraLife, Moxa Mart – PPOB, with strategic recommendations based on findings.
@@ -60,7 +69,7 @@ Data analyst with proven experience in leveraging SQL, Python, and Power BI to t
 ---
 **Hard Skills**
 
-SQL, PostgreSQL, DBeaver, Google Big Query, Python, PowerBI, Google Looker Studio, Tableau
+SQL, PostgreSQL, PowerBI, Google Big Query, Python, Google Looker Studio, Tableau, R
 
 <!--
 * Skill 1
