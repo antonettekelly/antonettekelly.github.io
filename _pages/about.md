@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Kelly Mae"
 author_profile: true
 redirect_from: 
   - /about/
