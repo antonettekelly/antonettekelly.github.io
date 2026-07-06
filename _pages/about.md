@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Information Systems graduate from Multimedia Nusantara University, currently working as a Data Analyst, specializing in Data Analysis and Data Science.
+Data Analyst | Business Intelligence | Risk Analytics | SQL • Python • Power BI
 
 About Me
 ======
-Naturally curious and passionate about transforming complex data into actionable insights, I thrive on new challenges and constantly seek opportunities to expand my skills and knowledge.
+Hi, I'm Kelly,a Data Analyst with a passion for transforming data into meaningful insights that drive better business decisions.
 
-My primary areas of focus include data analysis, predictive modeling, prototyping, and the creation of visualization dashboards. Beyond my technical pursuits, I find great joy in sharing my knowledge with colleagues, especially in the area of data. I am also eager to explore and learn about other fields to broaden my expertise.
+Over the past three years, I've had the opportunity to work across growth analytics and enterprise risk management in the financial services industry. From building interactive dashboards and automating reporting processes to conducting market research, predictive analysis, and regulatory reporting, I enjoy solving complex business problems by combining analytical thinking with practical solutions.
 
-Currently, I honed my skills in the financial services industry, focusing on analyzing various financial products within a smart mobile application. During my academic journey, I also worked as a laboratory assistant in probability and statistics, where I assisted students in conducting experiments and understanding statistical concepts. With a Bachelor's degree in Computer Science and information Systems, I am committed to leveraging data-driven insights to drive business growth and innovation.
+I believe data should do more than describe what happened—it should explain why it happened and help shape what comes next. That's why I enjoy exploring patterns, identifying opportunities, and translating complex datasets into insights that stakeholders can easily understand and act upon.
 
-Feel free to connect or reach me via [LinkedIn](https://www.linkedin.com/in/antonettekelly/).
+My toolkit primarily includes SQL, PostgreSQL, Python, Power BI, and Google Looker Studio. Beyond technical skills, I enjoy collaborating with cross-functional teams, communicating analytical findings to both technical and non-technical audiences, and continuously learning new technologies that help me become a better analyst.
+
+I'm always excited to learn, take on new challenges, and build data-driven solutions that create real business value. Feel free to explore my projects, and don't hesitate to reach out if you'd like to connect or collaborate via [LinkedIn](https://www.linkedin.com/in/antonettekelly/)!
