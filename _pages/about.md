@@ -11,7 +11,7 @@ Data Analyst | Business Intelligence | Risk Analytics | SQL • Python • Power
 
 About Me
 ======
-Hi, I'm Kelly,a Data Analyst with a passion for transforming data into meaningful insights that drive better business decisions.
+Hi, I'm Kelly, a Data Analyst with a passion for transforming data into meaningful insights that drive better business decisions.
 
 Over the past three years, I've had the opportunity to work across growth analytics and enterprise risk management in the financial services industry. From building interactive dashboards and automating reporting processes to conducting market research, predictive analysis, and regulatory reporting, I enjoy solving complex business problems by combining analytical thinking with practical solutions.
 
