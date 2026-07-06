@@ -69,7 +69,7 @@ management reporting of enterprise risk exposure.
 ---
 **Hard Skills**
 
-SQL, PostgreSQL, PowerBI, Google Big Query, Python, Google Looker Studio, Tableau, R
+SQL, PostgreSQL, PowerBI, Google Big Query, Python, Google Looker Studio, Tableau, R.
 
 <!--
 * Skill 1
@@ -81,7 +81,7 @@ SQL, PostgreSQL, PowerBI, Google Big Query, Python, Google Looker Studio, Tablea
 
 **Soft Skills**
 
-Analytical Thinking, Problem-Solving, Detail Oriented, Curiosity, Adaptability, Responsibility, Teamwork
+Analytical Thinking, Problem-Solving, Detail Oriented, Curiosity, Adaptability, Responsibility, Teamwork.
 
 <!--
 Publications
