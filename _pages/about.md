@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Data Analyst | Business Intelligence | Risk Analytics | SQL • Python • Power BI
+Data Analyst | Business Intelligence | SQL • Python • Power BI
 
 
 About Me
