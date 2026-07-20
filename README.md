@@ -1,6 +1,6 @@
 # Kelly Mae
 
-Data Analyst | Business Intelligence | Risk Analytics | SQL • Python • Power BI
+Data Analyst | Business Intelligence | SQL • Python • Power BI
 
 # About Me
 Hi, I'm Kelly, a Data Analyst with a passion for transforming data into meaningful insights that drive better business decisions.
